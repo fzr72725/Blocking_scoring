@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data files
+/data
+
+# pyc files
+.pyc
